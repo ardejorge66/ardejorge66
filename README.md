@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 🌶️
 
-<!--
-**ardejorge66/ardejorge66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jorge Ardente,🔥 I am Italian-Brazilian Scholar and entrepreneur of educational and advertising games.
 
-Here are some ideas to get you started:
+##📚 "The more I study, the more creativity increases!"🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💪I'm Carioca - Calabres! I currently live in São Lourenço - Minas Gerais At the time!!!
+
+- 🎲Freelance in Digital Art and Developer of Educational Game and Advertising Game.
+
+- 🎨Art Education and Cultural Anthropology Scholar, Infogravure Artist and Designer-Developer in digital game.🎮
+
+## Every game has a Structure:
+   Demarcated space and time.
+   
+## Space of possibilities a concept that unites:
+   Meaning + Design + Systems + Interaction.
+   
+# **MEANING PLAY**
+
+
+
+
