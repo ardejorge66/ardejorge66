@@ -2,7 +2,7 @@
 
 My name is Jorge Ardente,🔥 I am Italian-Brazilian Scholar and entrepreneur of educational and advertising games.
 
-##📚 "The more I study, the more creativity increases!"🧠
+## 📚 "The more I study, the more creativity increases!"🧠
 
 - 💪I'm Carioca - Calabres! I currently live in São Lourenço - Minas Gerais At the time!!!
 
