@@ -19,7 +19,7 @@ My name is Jorge Ardente,🔥 I am Italian-Brazilian Scholar and entrepreneur of
    
 # **MEANING PLAY**
 
-CTO @Rocketseat
+# Jorge Ardente - ARDE
 
 [![Youtube badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=
 https://www.youtube.com/channel/UCJRIPLSYf27Gq0KU41KWgsg)](https://www.youtube.com/channel/UCJRIPLSYf27Gq0KU41KWgsg)
