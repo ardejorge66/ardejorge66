@@ -1,6 +1,6 @@
 # Jorge Ardente - ARDE 🌶️
 
-[!Youtube(https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=)]
+[Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=)
 (https://www.youtube.com/channel/UCJRIPLSYf27Gq0KU41KWgsg)
 [Instagram](https://www.instagram.com/accounts/onetap/?next=%2F)
 [Twitter](https://twitter.com/home?username_or_email=ardejorge66)
